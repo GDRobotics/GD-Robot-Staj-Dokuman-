@@ -1,5 +1,21 @@
+25062018 Tarihli Hafta Hedefi
 
 Bu hafta, proje çalışması için küçük bir giriş çıkış ve uygulama düzenleme programı oluşturulacak.
 Bu hafta hedef; Kullanıcı adıyla giriş çıkış yapılan, operatör ve adminden oluşan kullanıcı 
 listelerine göre adminin operatörün girdiği verileri excel aracılığıyla dışarı alabildiği bir kod örneği oluşturulacaktır.
 Proje, c# kullanılarak yapılacaktır.
+
+
+
+29062018 Tarihli Hafta Hedefi
+
+- Ddatagridview den veri ye tıklayıp textboxları doldurma 
+- Güncelleme ve Silme Komutlkarı atancaak admin sadece silme yapabilir
+- decimal li fiyat kısmı virgül alacak 
+- textbox length belirlenecek (fiyat ve adet için)
+- admin kullanıcı bölüm kısmı kaldırılacak 
+- datagridview refreshi düzenlenecek 
+- form load ın arkada açık kalma sorunu kaldırılacak(x kapama tuşu kontrolü düzenlenecek) 
+- geri çıkış tuşları düzenlenecek 
+- giriş yaparken verdiği errrorlar ve işlemlerin yapılmasındaki errorlar düzenlenecek (messageboxlara girilen veriler önemli)
+- kullanıcı ekleme yaparken veritabanında olan kullanıcı ismi veritabanına eklenemez diye errror versin.
